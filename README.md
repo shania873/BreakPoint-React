@@ -2,7 +2,7 @@
 
 Tic Tac Toe Project made in React 18.
 
-Demo : https://shania873.github.io/TicTacToe_Game/
+Demo : https://shania873.github.io/BreakPoint-React/
 
 ## Installation
 
@@ -14,7 +14,7 @@ Before, you need to install this softwares:
 For the installation, you git clone the project, prefer ssh clone for not to have any problems
 
 ```bash
-git@github.com:shania873/TicTacToe_Game.git
+git@github.com:shania873/BreakPoint-React.git
 ```
 
 When you got the project, and you insalled node JS, you type this command for install the packages
